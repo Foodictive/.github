@@ -7,10 +7,10 @@ Foodictive is an app that intends to help people, especially tourists to identif
 
 | Name        | Student ID           | Learning Path  |
 | ------------- |:-------------:| -----:|
-| Gian Aji Satya | A2007F0684 |  Mobile Development |
-| Irfan Arrahman | A2128F1577 |  Mobile Development |
-| Krisostomos Abdixta Winarto | C2007F0682 | Cloud Computing |
-| Candhy Fadhila Arsyad | C2007F0683 | Cloud Computing |
-| Azril Bagas Pratama | M2200G1875 | Machine Learning |
-| Ahmad Bustanul Aziz | M7200G1866 | Machine Learning |
+| [Gian Aji Satya](https://github.com/gian-exe) | A2007F0684 |  Mobile Development |
+| [Irfan Arrahman](https://github.com/irfan201) | A2128F1577 |  Mobile Development |
+| [Krisostomos Abdixta Winarto](https://github.com/KrisostomosAbdi) | C2007F0682 | Cloud Computing |
+| [Candhy Fadhila Arsyad](https://github.com/CandhyFadhila) | C2007F0683 | Cloud Computing |
+| [Azril Bagas Pratama](https://github.com/avocadojj) | M2200G1875 | Machine Learning |
+| [Ahmad Bustanul Aziz](https://github.com/AhmadBustanulAziz/) | M7200G1866 | Machine Learning |
 
