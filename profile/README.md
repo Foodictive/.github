@@ -1,4 +1,4 @@
-# Welcome to the official repository of Foodictive
+# Welcome to the Official Repository of Foodictive
 Foodictive is an app made by C22-PS263 students for Bangkit 2022 Capstone Project.
 Foodictive is an app that intends to help people, especially tourists to identify their food. Our app works by scanning photo uploaded or taken  by the user and then it will identify what food is that. If the user doesn’t have any food photo, we also provide food cards that can be scanned by our user. After that, our app will show every information about that food like description and recipe. User can also see every food merchant who sells that food around him. 
 
