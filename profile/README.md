@@ -17,4 +17,4 @@ Foodictive is an app that intends to help people, especially tourists to identif
 # Our Project Plan Document
 https://drive.google.com/open?id=1JavAOpChHhbt4re5ZUgVe0Oy-Qsk6oBe
 # Food Card Design
-https://www.figma.com/proto/zWqJu6INbyZTRhpSSVp9Do/Card-Prototype?node-id=103%3A49&scaling=min-zoom&page-id=0%3A1
+https://www.figma.com/file/zWqJu6INbyZTRhpSSVp9Do/Card-Prototype?node-id=103%3A3
