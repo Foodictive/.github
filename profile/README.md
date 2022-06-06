@@ -14,5 +14,7 @@ Foodictive is an app that intends to help people, especially tourists to identif
 | [Azril Bagas Pratama](https://github.com/avocadojj) | M2200G1875 | Machine Learning |
 | [Ahmad Bustanul Aziz](https://github.com/AhmadBustanulAziz/) | M7200G1866 | Machine Learning |
 
-## Our Project Plan Document
+# Our Project Plan Document
 https://drive.google.com/open?id=1JavAOpChHhbt4re5ZUgVe0Oy-Qsk6oBe
+# Food Card Design
+https://www.figma.com/proto/zWqJu6INbyZTRhpSSVp9Do/Card-Prototype?node-id=103%3A49&scaling=min-zoom&page-id=0%3A1
