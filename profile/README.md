@@ -16,5 +16,13 @@ Foodictive is an app that intends to help people, especially tourists to identif
 
 ## Our Project Plan Document
 https://drive.google.com/open?id=1JavAOpChHhbt4re5ZUgVe0Oy-Qsk6oBe
+## Mobile Development Repository (Foddictive App)
+https://github.com/Foodictive/Foodictive-Apps-.git
+## Cloud Computing Repository (API & Website)
+https://github.com/Foodictive/Foodictive-API.git 
+<br />
+https://github.com/Foodictive/Foodictive-Web.git
+## Machine Learning Repository (Machine Learning Model)
+https://github.com/Foodictive/Foodicitive-ML.git
 ## Food Card Design
 https://www.figma.com/file/zWqJu6INbyZTRhpSSVp9Do/Card-Prototype?node-id=103%3A3
