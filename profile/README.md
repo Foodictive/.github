@@ -27,3 +27,5 @@ https://github.com/Foodictive/Foodictive-Web.git
 https://github.com/Foodictive/Foodicitive-ML.git
 ## Food Card Design
 https://www.figma.com/file/zWqJu6INbyZTRhpSSVp9Do/Card-Prototype?node-id=103%3A3
+## App Design
+https://www.figma.com/file/bfBY0c1tqCnV2U2UVuUrug/Foodictive?node-id=0%3A1
